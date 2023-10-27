@@ -10,3 +10,7 @@ function feature2() {
 function feature3() {
     alert('from feature 3.');
 }
+
+function feature4() {
+    alert('from feature 4.');
+}
